@@ -1,4 +1,9 @@
-## Code:
+#### To Do:
+- [ ] Complete list
+- [x] Code Block
+- [x] Image
+
+#### Code:
 ``` python
 def main():
   var = "Hello World!"
@@ -7,5 +12,5 @@ def main():
 main()
 ```
 
-### seee:
+#### seee:
 ![image of gangnam cat](https://octodex.github.com/images/yaktocat.png)
