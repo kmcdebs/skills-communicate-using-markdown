@@ -1,6 +1,5 @@
 # Making changes
-## now we are cooking
-#### with gas
+## now we are cooking with gass
 
-###### small header
-regular text
+### seee:
+![image of gangnam cat](https://octodex.github.com/images/yaktocat.png)
